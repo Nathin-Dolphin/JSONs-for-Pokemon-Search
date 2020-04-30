@@ -23,7 +23,7 @@
         "alternateForm": "0"
     },
     "regionURLs": {
-        "kanto": "",
+        "kanto": "file:///D:/GeneralApplicationsData/GitHubRepositories/Json-Text-Files/kanto.json",
         "johto": "",
         "hoenn": "",
         "sinnoh": "",
