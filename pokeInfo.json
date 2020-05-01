@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.1",
     "types": {
         "bug": "dark",
         "dragon": "electric",
@@ -23,14 +23,14 @@
         "alternateForm": "0"
     },
     "regionURLs": {
-        "kanto": "file:///D:/GeneralApplicationsData/GitHubRepositories/Json-Text-Files/kanto.json",
-        "johto": "",
-        "hoenn": "",
-        "sinnoh": "",
-        "unova": "",
-        "kalos": "",
-        "alola": "",
-        "galar": "",
+        "kanto": "https://jsontextfiles.azurewebsites.net/kanto.json",
+        "johto": "https://jsontextfiles.azurewebsites.net/johto.json",
+        "hoenn": "https://jsontextfiles.azurewebsites.net/hoenn.json",
+        "sinnoh": "https://jsontextfiles.azurewebsites.net/sinnoh.json",
+        "unova": "https://jsontextfiles.azurewebsites.net/unova.json",
+        "kalos": "https://jsontextfiles.azurewebsites.net/kalos.json",
+        "alola": "https://jsontextfiles.azurewebsites.net/alola.json",
+        "galar": "https://jsontextfiles.azurewebsites.net/galar.json",
         "alternateForm": ""
     }
 }

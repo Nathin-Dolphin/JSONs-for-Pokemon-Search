@@ -1,22 +1,505 @@
 {
-    "johto": [
-        {
-            "name": "Chikorita",
-            "number": "152",
-            "type": "Grass",
-            "evolution": "?-1"
-        },
-        {
-            "name": "Bayleef",
-            "number": "153",
-            "type": "Grass",
-            "evolution": "?-2"
-        },
-        {
-            "name": "Meganium",
-            "number": "154",
-            "type": "Grass",
-            "evolution": "?-3"
-        }
-    ]
+	"johto": [
+		{
+			"name": "Chikorita",
+			"number": "152",
+			"type": "Grass",
+			"evolution": "0-3"
+		},{
+			"name": "Bayleef",
+			"number": "153",
+			"type": "Grass",
+			"evolution": "1-3"
+		},{
+			"name": "Meganium",
+			"number": "154",
+			"type": "Grass",
+			"evolution": "2-3"
+		},{
+			"name": "Cyndaquil",
+			"number": "155",
+			"type": "Fire",
+			"evolution": "3-3"
+		},{
+			"name": "Quilava",
+			"number": "156",
+			"type": "Fire",
+			"evolution": "4-3"
+		},{
+			"name": "Typhlosion",
+			"number": "157",
+			"type": "Fire",
+			"evolution": "5-3"
+		},{
+			"name": "Totodile",
+			"number": "158",
+			"type": "Water",
+			"evolution": "6-3"
+		},{
+			"name": "Croconaw",
+			"number": "159",
+			"type": "Water",
+			"evolution": "7-3"
+		},{
+			"name": "Feraligatr",
+			"number": "160",
+			"type": "Water",
+			"evolution": "8-3"
+		},{
+			"name": "Sentret",
+			"number": "161",
+			"type": "Normal",
+			"evolution": "9-3"
+		},{
+			"name": "Furret",
+			"number": "162",
+			"type": "Normal",
+			"evolution": "10-3"
+		},{
+			"name": "Hoothoot",
+			"number": "163",
+			"type": "Normal-Flying",
+			"evolution": "11-3"
+		},{
+			"name": "Noctowl",
+			"number": "164",
+			"type": "Normal-Flying",
+			"evolution": "12-3"
+		},{
+			"name": "Ledyba",
+			"number": "165",
+			"type": "Bug-Flying",
+			"evolution": "13-3"
+		},{
+			"name": "Ledian",
+			"number": "166",
+			"type": "Bug-Flying",
+			"evolution": "14-3"
+		},{
+			"name": "Spinarak",
+			"number": "167",
+			"type": "Bug-Poison",
+			"evolution": "15-3"
+		},{
+			"name": "Ariados",
+			"number": "168",
+			"type": "Bug-Poison",
+			"evolution": "16-3"
+		},{
+			"name": "Crobat",
+			"number": "169",
+			"type": "Poison-Flying",
+			"evolution": "17-3"
+		},{
+			"name": "Chinchou",
+			"number": "170",
+			"type": "Water-Electric",
+			"evolution": "18-3"
+		},{
+			"name": "Lanturn",
+			"number": "171",
+			"type": "Water-Electric",
+			"evolution": "19-3"
+		},{
+			"name": "Pichu",
+			"number": "172",
+			"type": "Electric",
+			"evolution": "20-3"
+		},{
+			"name": "Cleffa",
+			"number": "173",
+			"type": "Fairy",
+			"evolution": "21-3"
+		},{
+			"name": "Igglybuff",
+			"number": "174",
+			"type": "Normal-Fairy",
+			"evolution": "22-3"
+		},{
+			"name": "Togepi",
+			"number": "175",
+			"type": "Fairy",
+			"evolution": "23-3"
+		},{
+			"name": "Togetic",
+			"number": "176",
+			"type": "Fairy-Flying",
+			"evolution": "24-3"
+		},{
+			"name": "Natu",
+			"number": "177",
+			"type": "Psychic-Flying",
+			"evolution": "25-3"
+		},{
+			"name": "Xatu",
+			"number": "178",
+			"type": "Psychic-Flying",
+			"evolution": "26-3"
+		},{
+			"name": "Mareep",
+			"number": "179",
+			"type": "Electric",
+			"evolution": "27-3"
+		},{
+			"name": "Flaaffy",
+			"number": "180",
+			"type": "Electric",
+			"evolution": "28-3"
+		},{
+			"name": "Ampharos",
+			"number": "181",
+			"type": "Electric",
+			"evolution": "29-3"
+		},{
+			"name": "Bellossom",
+			"number": "182",
+			"type": "Grass",
+			"evolution": "30-3"
+		},{
+			"name": "Marill",
+			"number": "183",
+			"type": "Water-Fairy",
+			"evolution": "31-3"
+		},{
+			"name": "Azumarill",
+			"number": "184",
+			"type": "Water-Fairy",
+			"evolution": "32-3"
+		},{
+			"name": "Sudowoodo",
+			"number": "185",
+			"type": "Rock",
+			"evolution": "33-3"
+		},{
+			"name": "Politoed",
+			"number": "186",
+			"type": "Water",
+			"evolution": "34-3"
+		},{
+			"name": "Hoppip",
+			"number": "187",
+			"type": "Grass-Flying",
+			"evolution": "35-3"
+		},{
+			"name": "Skiploom",
+			"number": "188",
+			"type": "Grass-Flying",
+			"evolution": "36-3"
+		},{
+			"name": "Jumpluff",
+			"number": "189",
+			"type": "Grass-Flying",
+			"evolution": "37-3"
+		},{
+			"name": "Aipom",
+			"number": "190",
+			"type": "Normal",
+			"evolution": "38-3"
+		},{
+			"name": "Sunkern",
+			"number": "191",
+			"type": "Grass",
+			"evolution": "39-3"
+		},{
+			"name": "Sunflora",
+			"number": "192",
+			"type": "Grass",
+			"evolution": "40-3"
+		},{
+			"name": "Yanma",
+			"number": "193",
+			"type": "Bug-Flying",
+			"evolution": "41-3"
+		},{
+			"name": "Wooper",
+			"number": "194",
+			"type": "Water-Ground",
+			"evolution": "42-3"
+		},{
+			"name": "Quagsire",
+			"number": "195",
+			"type": "Water-Ground",
+			"evolution": "43-3"
+		},{
+			"name": "Espeon",
+			"number": "196",
+			"type": "Psychic",
+			"evolution": "44-3"
+		},{
+			"name": "Umbreon",
+			"number": "197",
+			"type": "Dark",
+			"evolution": "45-3"
+		},{
+			"name": "Murkrow",
+			"number": "198",
+			"type": "Dark-Flying",
+			"evolution": "46-3"
+		},{
+			"name": "Slowking",
+			"number": "199",
+			"type": "Water-Psychic",
+			"evolution": "47-3"
+		},{
+			"name": "Misdreavus",
+			"number": "200",
+			"type": "Ghost",
+			"evolution": "48-3"
+		},{
+			"name": "Unown",
+			"number": "201",
+			"type": "Psychic",
+			"evolution": "49-3"
+		},{
+			"name": "Wobbuffet",
+			"number": "202",
+			"type": "Psychic",
+			"evolution": "50-3"
+		},{
+			"name": "Girafarig",
+			"number": "203",
+			"type": "Normal-Psychic",
+			"evolution": "51-3"
+		},{
+			"name": "Pineco",
+			"number": "204",
+			"type": "Bug",
+			"evolution": "52-3"
+		},{
+			"name": "Forretress",
+			"number": "205",
+			"type": "Bug-Steel",
+			"evolution": "53-3"
+		},{
+			"name": "Dunsparce",
+			"number": "206",
+			"type": "Normal",
+			"evolution": "54-3"
+		},{
+			"name": "Gligar",
+			"number": "207",
+			"type": "Ground-Flying",
+			"evolution": "55-3"
+		},{
+			"name": "Steelix",
+			"number": "208",
+			"type": "Steel-Ground",
+			"evolution": "56-3"
+		},{
+			"name": "Snubbull",
+			"number": "209",
+			"type": "Fairy",
+			"evolution": "57-3"
+		},{
+			"name": "Granbull",
+			"number": "210",
+			"type": "Fairy",
+			"evolution": "58-3"
+		},{
+			"name": "Qwilfish",
+			"number": "211",
+			"type": "Water-Poison",
+			"evolution": "59-3"
+		},{
+			"name": "Scizor",
+			"number": "212",
+			"type": "Bug-Steel",
+			"evolution": "60-3"
+		},{
+			"name": "Shuckle",
+			"number": "213",
+			"type": "Bug-Rock",
+			"evolution": "61-3"
+		},{
+			"name": "Heracross",
+			"number": "214",
+			"type": "Bug-Fighting",
+			"evolution": "62-3"
+		},{
+			"name": "Sneasel",
+			"number": "215",
+			"type": "Dark-Ice",
+			"evolution": "63-3"
+		},{
+			"name": "Teddiursa",
+			"number": "216",
+			"type": "Normal",
+			"evolution": "64-3"
+		},{
+			"name": "Ursaring",
+			"number": "217",
+			"type": "Normal",
+			"evolution": "65-3"
+		},{
+			"name": "Slugma",
+			"number": "218",
+			"type": "Fire",
+			"evolution": "66-3"
+		},{
+			"name": "Magcargo",
+			"number": "219",
+			"type": "Fire-Rock",
+			"evolution": "67-3"
+		},{
+			"name": "Swinub",
+			"number": "220",
+			"type": "Ice-Ground",
+			"evolution": "68-3"
+		},{
+			"name": "Piloswine",
+			"number": "221",
+			"type": "Ice-Ground",
+			"evolution": "69-3"
+		},{
+			"name": "Corsola",
+			"number": "222",
+			"type": "Water-Rock",
+			"evolution": "70-3"
+		},{
+			"name": "Remoraid",
+			"number": "223",
+			"type": "Water",
+			"evolution": "71-3"
+		},{
+			"name": "Octillery",
+			"number": "224",
+			"type": "Water",
+			"evolution": "72-3"
+		},{
+			"name": "Delibird",
+			"number": "225",
+			"type": "Ice-Flying",
+			"evolution": "73-3"
+		},{
+			"name": "Mantine",
+			"number": "226",
+			"type": "Water-Flying",
+			"evolution": "74-3"
+		},{
+			"name": "Skarmory",
+			"number": "227",
+			"type": "Steel-Flying",
+			"evolution": "75-3"
+		},{
+			"name": "Houndour",
+			"number": "228",
+			"type": "Dark-Fire",
+			"evolution": "76-3"
+		},{
+			"name": "Houndoom",
+			"number": "229",
+			"type": "Dark-Fire",
+			"evolution": "77-3"
+		},{
+			"name": "Kingdra",
+			"number": "230",
+			"type": "Water-Dragon",
+			"evolution": "78-3"
+		},{
+			"name": "Phanpy",
+			"number": "231",
+			"type": "Ground",
+			"evolution": "79-3"
+		},{
+			"name": "Donphan",
+			"number": "232",
+			"type": "Ground",
+			"evolution": "80-3"
+		},{
+			"name": "Porygon2",
+			"number": "233",
+			"type": "Normal",
+			"evolution": "81-3"
+		},{
+			"name": "Stantler",
+			"number": "234",
+			"type": "Normal",
+			"evolution": "82-3"
+		},{
+			"name": "Smeargle",
+			"number": "235",
+			"type": "Normal",
+			"evolution": "83-3"
+		},{
+			"name": "Tyrogue",
+			"number": "236",
+			"type": "Fighting",
+			"evolution": "84-3"
+		},{
+			"name": "Hitmontop",
+			"number": "237",
+			"type": "Fighting",
+			"evolution": "85-3"
+		},{
+			"name": "Smoochum",
+			"number": "238",
+			"type": "Ice-Psychic",
+			"evolution": "86-3"
+		},{
+			"name": "Elekid",
+			"number": "239",
+			"type": "Electric",
+			"evolution": "87-3"
+		},{
+			"name": "Magby",
+			"number": "240",
+			"type": "Fire",
+			"evolution": "88-3"
+		},{
+			"name": "Miltank",
+			"number": "241",
+			"type": "Normal",
+			"evolution": "89-3"
+		},{
+			"name": "Blissey",
+			"number": "242",
+			"type": "Normal",
+			"evolution": "90-3"
+		},{
+			"name": "Raikou",
+			"number": "243",
+			"type": "Electric",
+			"evolution": "91-3"
+		},{
+			"name": "Entei",
+			"number": "244",
+			"type": "Fire",
+			"evolution": "92-3"
+		},{
+			"name": "Suicune",
+			"number": "245",
+			"type": "Water",
+			"evolution": "93-3"
+		},{
+			"name": "Larvitar",
+			"number": "246",
+			"type": "Rock-Ground",
+			"evolution": "94-3"
+		},{
+			"name": "Pupitar",
+			"number": "247",
+			"type": "Rock-Ground",
+			"evolution": "95-3"
+		},{
+			"name": "Tyranitar",
+			"number": "248",
+			"type": "Rock-Dark",
+			"evolution": "96-3"
+		},{
+			"name": "Lugia",
+			"number": "249",
+			"type": "Psychic-Flying",
+			"evolution": "97-3"
+		},{
+			"name": "Ho-oh",
+			"number": "250",
+			"type": "Fire-Flying",
+			"evolution": "98-3"
+		},{
+			"name": "Celebi",
+			"number": "251",
+			"type": "Psychic-Grass",
+			"evolution": "99-3"
+		}
+	]
 }

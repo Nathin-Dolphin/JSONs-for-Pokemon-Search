@@ -1,0 +1,365 @@
+{
+	"kalos": [
+		{
+			"name": "Chespin",
+			"number": "650",
+			"type": "Grass",
+			"evolution": "0-3"
+		},{
+			"name": "Quilladin",
+			"number": "651",
+			"type": "Grass",
+			"evolution": "1-3"
+		},{
+			"name": "Chesnaught",
+			"number": "652",
+			"type": "Grass-Fighting",
+			"evolution": "2-3"
+		},{
+			"name": "Fennekin",
+			"number": "653",
+			"type": "Fire",
+			"evolution": "3-3"
+		},{
+			"name": "Braixen",
+			"number": "654",
+			"type": "Fire",
+			"evolution": "4-3"
+		},{
+			"name": "Delphox",
+			"number": "655",
+			"type": "Fire-Psychic",
+			"evolution": "5-3"
+		},{
+			"name": "Froakie",
+			"number": "656",
+			"type": "Water",
+			"evolution": "6-3"
+		},{
+			"name": "Frogadier",
+			"number": "657",
+			"type": "Water",
+			"evolution": "7-3"
+		},{
+			"name": "Greninja",
+			"number": "658",
+			"type": "Water-Dark",
+			"evolution": "8-3"
+		},{
+			"name": "Bunnelby",
+			"number": "659",
+			"type": "Normal",
+			"evolution": "9-3"
+		},{
+			"name": "Diggersby",
+			"number": "660",
+			"type": "Normal-Ground",
+			"evolution": "10-3"
+		},{
+			"name": "Fletchling",
+			"number": "661",
+			"type": "Normal-Flying",
+			"evolution": "11-3"
+		},{
+			"name": "Fletchinder",
+			"number": "662",
+			"type": "Fire-Flying",
+			"evolution": "12-3"
+		},{
+			"name": "Talonflame",
+			"number": "663",
+			"type": "Fire-Flying",
+			"evolution": "13-3"
+		},{
+			"name": "Scatterbug",
+			"number": "664",
+			"type": "Bug",
+			"evolution": "14-3"
+		},{
+			"name": "Spewpa",
+			"number": "665",
+			"type": "Bug",
+			"evolution": "15-3"
+		},{
+			"name": "Vivillon",
+			"number": "666",
+			"type": "Bug-Flying",
+			"evolution": "16-3"
+		},{
+			"name": "Litleo",
+			"number": "667",
+			"type": "Fire-Normal",
+			"evolution": "17-3"
+		},{
+			"name": "Pyroar",
+			"number": "668",
+			"type": "Fire-Normal",
+			"evolution": "18-3"
+		},{
+			"name": "Flabebe",
+			"number": "669",
+			"type": "Fairy",
+			"evolution": "19-3"
+		},{
+			"name": "Floette",
+			"number": "670",
+			"type": "Fairy",
+			"evolution": "20-3"
+		},{
+			"name": "Florges",
+			"number": "671",
+			"type": "Fairy",
+			"evolution": "21-3"
+		},{
+			"name": "Skiddo",
+			"number": "672",
+			"type": "Grass",
+			"evolution": "22-3"
+		},{
+			"name": "Gogoat",
+			"number": "673",
+			"type": "Grass",
+			"evolution": "23-3"
+		},{
+			"name": "Pancham",
+			"number": "674",
+			"type": "Fighting",
+			"evolution": "24-3"
+		},{
+			"name": "Pangoro",
+			"number": "675",
+			"type": "Fighting-Dark",
+			"evolution": "25-3"
+		},{
+			"name": "Furfrou",
+			"number": "676",
+			"type": "Normal",
+			"evolution": "26-3"
+		},{
+			"name": "Espurr",
+			"number": "677",
+			"type": "Psychic",
+			"evolution": "27-3"
+		},{
+			"name": "Meowstic",
+			"number": "678",
+			"type": "Psychic",
+			"evolution": "28-3"
+		},{
+			"name": "Honedge",
+			"number": "679",
+			"type": "Steel-Ghost",
+			"evolution": "29-3"
+		},{
+			"name": "Doublade",
+			"number": "680",
+			"type": "Steel-Ghost",
+			"evolution": "30-3"
+		},{
+			"name": "Aegislash",
+			"number": "681",
+			"type": "Steel-Ghost",
+			"evolution": "31-3"
+		},{
+			"name": "Spritzee",
+			"number": "682",
+			"type": "Fairy",
+			"evolution": "32-3"
+		},{
+			"name": "Aromatisse",
+			"number": "683",
+			"type": "Fairy",
+			"evolution": "33-3"
+		},{
+			"name": "Swirlix",
+			"number": "684",
+			"type": "Fairy",
+			"evolution": "34-3"
+		},{
+			"name": "Slurpuff",
+			"number": "685",
+			"type": "Fairy",
+			"evolution": "35-3"
+		},{
+			"name": "Inkay",
+			"number": "686",
+			"type": "Dark-Psychic",
+			"evolution": "36-3"
+		},{
+			"name": "Malamar",
+			"number": "687",
+			"type": "Dark-Psychic",
+			"evolution": "37-3"
+		},{
+			"name": "Binacle",
+			"number": "688",
+			"type": "Rock-Water",
+			"evolution": "38-3"
+		},{
+			"name": "Barbaracle",
+			"number": "689",
+			"type": "Rock-Water",
+			"evolution": "39-3"
+		},{
+			"name": "Skrelp",
+			"number": "690",
+			"type": "Poison-Water",
+			"evolution": "40-3"
+		},{
+			"name": "Dragalge",
+			"number": "691",
+			"type": "Poison-Dragon",
+			"evolution": "41-3"
+		},{
+			"name": "Clauncher",
+			"number": "692",
+			"type": "Water",
+			"evolution": "42-3"
+		},{
+			"name": "Clawitzer",
+			"number": "693",
+			"type": "Water",
+			"evolution": "43-3"
+		},{
+			"name": "Helioptile",
+			"number": "694",
+			"type": "Electric-Normal",
+			"evolution": "44-3"
+		},{
+			"name": "Heliolisk",
+			"number": "695",
+			"type": "Electric-Normal",
+			"evolution": "45-3"
+		},{
+			"name": "Tyrunt",
+			"number": "696",
+			"type": "Rock-Dragon",
+			"evolution": "46-3"
+		},{
+			"name": "Tyrantrum",
+			"number": "697",
+			"type": "Rock-Dragon",
+			"evolution": "47-3"
+		},{
+			"name": "Amaura",
+			"number": "698",
+			"type": "Rock-Ice",
+			"evolution": "48-3"
+		},{
+			"name": "Aurorus",
+			"number": "699",
+			"type": "Rock-Ice",
+			"evolution": "49-3"
+		},{
+			"name": "Sylveon",
+			"number": "700",
+			"type": "Fairy",
+			"evolution": "50-3"
+		},{
+			"name": "Hawlucha",
+			"number": "701",
+			"type": "Fighting-Flying",
+			"evolution": "51-3"
+		},{
+			"name": "Dedenne",
+			"number": "702",
+			"type": "Electric-Fairy",
+			"evolution": "52-3"
+		},{
+			"name": "Carbink",
+			"number": "703",
+			"type": "Rock-Fairy",
+			"evolution": "53-3"
+		},{
+			"name": "Goomy",
+			"number": "704",
+			"type": "Dragon",
+			"evolution": "54-3"
+		},{
+			"name": "Sliggoo",
+			"number": "705",
+			"type": "Dragon",
+			"evolution": "55-3"
+		},{
+			"name": "Goodra",
+			"number": "706",
+			"type": "Dragon",
+			"evolution": "56-3"
+		},{
+			"name": "Klefki",
+			"number": "707",
+			"type": "Steel-Fairy",
+			"evolution": "57-3"
+		},{
+			"name": "Phantump",
+			"number": "708",
+			"type": "Ghost-Grass",
+			"evolution": "58-3"
+		},{
+			"name": "Trevenant",
+			"number": "709",
+			"type": "Ghost-Grass",
+			"evolution": "59-3"
+		},{
+			"name": "Pumpkaboo",
+			"number": "710",
+			"type": "Ghost-Grass",
+			"evolution": "60-3"
+		},{
+			"name": "Gourgeist",
+			"number": "711",
+			"type": "Ghost-Grass",
+			"evolution": "61-3"
+		},{
+			"name": "Bergmite",
+			"number": "712",
+			"type": "Ice",
+			"evolution": "62-3"
+		},{
+			"name": "Avalugg",
+			"number": "713",
+			"type": "Ice",
+			"evolution": "63-3"
+		},{
+			"name": "Noibat",
+			"number": "714",
+			"type": "Flying-Dragon",
+			"evolution": "64-3"
+		},{
+			"name": "Noivern",
+			"number": "715",
+			"type": "Flying-Dragon",
+			"evolution": "65-3"
+		},{
+			"name": "Xerneas",
+			"number": "716",
+			"type": "Fairy",
+			"evolution": "66-3"
+		},{
+			"name": "Yveltal",
+			"number": "717",
+			"type": "Dark-Flying",
+			"evolution": "67-3"
+		},{
+			"name": "Zygarde",
+			"number": "718",
+			"type": "Dragon-Ground",
+			"evolution": "68-3"
+		},{
+			"name": "Diancie",
+			"number": "719",
+			"type": "Rock-Fairy",
+			"evolution": "69-3"
+		},{
+			"name": "Hoopa",
+			"number": "720",
+			"type": "Psychic-Ghost",
+			"evolution": "70-3"
+		},{
+			"name": "Volcanion",
+			"number": "721",
+			"type": "Fire-Water",
+			"evolution": "71-3"
+		}
+	]
+}
