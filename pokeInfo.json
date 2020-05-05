@@ -20,7 +20,7 @@
         "kalos": "721-0",
         "alola": "809-0",
         "galar": "890-0",
-        "alternateForm": "0"
+        "alternateForm": "0-0"
     },
     "regionURLs": {
         "kanto": "https://jsontextfiles.azurewebsites.net/kanto.json",
