@@ -31,6 +31,6 @@
         "kalos": "https://jsontextfiles.azurewebsites.net/kalos.json",
         "alola": "https://jsontextfiles.azurewebsites.net/alola.json",
         "galar": "https://jsontextfiles.azurewebsites.net/galar.json",
-        "alternateForm": "null"
+        "alternateForm": "null/alternateForm.json"
     }
 }
