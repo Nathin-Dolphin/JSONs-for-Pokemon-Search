@@ -1,5 +1,5 @@
 {
-    "version": "1.2",
+    "version": "1.3",
     "types": {
         "bug": "dark",
         "dragon": "electric",
@@ -12,14 +12,14 @@
         "steel": "water"
     },
     "regions": {
-        "kanto": "151",
-        "johto": "251",
-        "hoenn": "386",
-        "sinnoh": "493",
-        "unova": "649",
-        "kalos": "721",
-        "alola": "809",
-        "galar": "890",
+        "kanto": "151-77",
+        "johto": "251-127",
+        "hoenn": "386-0",
+        "sinnoh": "493-0",
+        "unova": "649-0",
+        "kalos": "721-0",
+        "alola": "809-0",
+        "galar": "890-0",
         "alternateForm": "0"
     },
     "regionURLs": {
