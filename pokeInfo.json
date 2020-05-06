@@ -1,5 +1,5 @@
 {
-    "version": "1.4",
+    "version": "1.4.1",
     "types": {
         "bug": "dark",
         "dragon": "electric",
@@ -14,7 +14,7 @@
     "regions": {
         "kanto": "151-77",
         "johto": "251-127",
-        "hoenn": "386-0",
+        "hoenn": "386-196",
         "sinnoh": "493-0",
         "unova": "649-0",
         "kalos": "721-0",

@@ -649,32 +649,32 @@
 			"name": "Latios",
 			"number": "0381",
 			"type": "Dragon-Psychic",
-			"evolution": "192-0"
+			"evolution": "191-0"
 		},{
 			"name": "Kyogre",
 			"number": "0382",
 			"type": "Water",
-			"evolution": "193-0"
+			"evolution": "192-0"
 		},{
 			"name": "Groudon",
 			"number": "0383",
 			"type": "Ground",
-			"evolution": "194-0"
+			"evolution": "193-0"
 		},{
 			"name": "Rayquaza",
 			"number": "0384",
 			"type": "Dragon-Flying",
-			"evolution": "195-0"
+			"evolution": "194-0"
 		},{
 			"name": "Jirachi",
 			"number": "0385",
 			"type": "Steel-Psychic",
-			"evolution": "196-0"
+			"evolution": "195-0"
 		},{
 			"name": "Deoxys",
 			"number": "0386",
 			"type": "Psychic",
-			"evolution": "197-0"
+			"evolution": "196-0"
 		}
 	]
 }
