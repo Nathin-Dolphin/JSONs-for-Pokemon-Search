@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "types": {
         "bug": "dark",
         "dragon": "electric",
@@ -15,7 +15,7 @@
         "kanto": "151-77",
         "johto": "251-127",
         "hoenn": "386-196",
-        "sinnoh": "493-0",
+        "sinnoh": "493-241",
         "unova": "649-0",
         "kalos": "721-0",
         "alola": "809-0",
@@ -32,5 +32,11 @@
         "alola": "https://jsontextfiles.azurewebsites.net/alola.json",
         "galar": "https://jsontextfiles.azurewebsites.net/galar.json",
         "alternateForm": "null/alternateForm.json"
+    },
+    "format": {
+	"name": "",
+	"number": "",
+	"type": "",
+	"evolution": ""
     }
 }
