@@ -1,5 +1,5 @@
 {
-    "version": "1.5",
+    "version": "1.6",
     "types": {
         "bug": "dark",
         "dragon": "electric",
@@ -16,7 +16,7 @@
         "johto": "251-127",
         "hoenn": "386-196",
         "sinnoh": "493-241",
-        "unova": "649-0",
+        "unova": "649-323",
         "kalos": "721-0",
         "alola": "809-0",
         "galar": "890-0",
