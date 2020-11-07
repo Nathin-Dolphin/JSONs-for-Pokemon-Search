@@ -2,409 +2,449 @@
 	"galar": [
 		{
 			"name": "Grookey",
-			"number": "810",
+			"number": "0810",
 			"type": "Grass",
-			"evolution": "0-3"
+			"evolution": "416-1"
 		},{
 			"name": "Thwackey",
-			"number": "811",
+			"number": "0811",
 			"type": "Grass",
-			"evolution": "1-3"
+			"evolution": "416-2"
 		},{
 			"name": "Rillaboom",
-			"number": "812",
+			"number": "0812",
 			"type": "Grass",
-			"evolution": "2-3"
+			"evolution": "416-3"
 		},{
 			"name": "Scorbunny",
-			"number": "813",
+			"number": "0813",
 			"type": "Fire",
-			"evolution": "3-3"
+			"evolution": "417-1"
 		},{
 			"name": "Raboot",
-			"number": "814",
+			"number": "0814",
 			"type": "Fire",
-			"evolution": "4-3"
+			"evolution": "417-2"
 		},{
 			"name": "Cinderace",
-			"number": "815",
+			"number": "0815",
 			"type": "Fire",
-			"evolution": "5-3"
+			"evolution": "417-3"
 		},{
 			"name": "Sobble",
-			"number": "816",
+			"number": "0816",
 			"type": "Water",
-			"evolution": "6-3"
+			"evolution": "418-1"
 		},{
 			"name": "Drizzile",
-			"number": "817",
+			"number": "0817",
 			"type": "Water",
-			"evolution": "7-3"
+			"evolution": "418-2"
 		},{
 			"name": "Inteleon",
-			"number": "818",
+			"number": "0818",
 			"type": "Water",
-			"evolution": "8-3"
+			"evolution": "418-3"
 		},{
 			"name": "Skwovet",
-			"number": "819",
+			"number": "0819",
 			"type": "Normal",
-			"evolution": "9-3"
+			"evolution": "419-1"
 		},{
 			"name": "Greedent",
-			"number": "820",
+			"number": "0820",
 			"type": "Normal",
-			"evolution": "10-3"
+			"evolution": "419-3"
 		},{
 			"name": "Rookidee",
-			"number": "821",
+			"number": "0821",
 			"type": "Flying",
-			"evolution": "11-3"
+			"evolution": "420-1"
 		},{
 			"name": "Corvisquire",
-			"number": "822",
+			"number": "0822",
 			"type": "Flying",
-			"evolution": "12-3"
+			"evolution": "420-2"
 		},{
 			"name": "Corviknight",
-			"number": "823",
+			"number": "0823",
 			"type": "Flying-Steel",
-			"evolution": "13-3"
+			"evolution": "420-3"
 		},{
 			"name": "Blipbug",
-			"number": "824",
+			"number": "0824",
 			"type": "Bug",
-			"evolution": "14-3"
+			"evolution": "421-1"
 		},{
 			"name": "Dottler",
-			"number": "825",
+			"number": "0825",
 			"type": "Bug-Psychic",
-			"evolution": "15-3"
+			"evolution": "421-2"
 		},{
 			"name": "Orbeetle",
-			"number": "826",
+			"number": "0826",
 			"type": "Bug-Psychic",
-			"evolution": "16-3"
+			"evolution": "421-3"
 		},{
 			"name": "Nickit",
-			"number": "827",
+			"number": "0827",
 			"type": "Dark",
-			"evolution": "17-3"
+			"evolution": "422-1"
 		},{
 			"name": "Thievul",
-			"number": "828",
+			"number": "0828",
 			"type": "Dark",
-			"evolution": "18-3"
+			"evolution": "422-3"
 		},{
 			"name": "Gossifleur",
-			"number": "829",
+			"number": "0829",
 			"type": "Grass",
-			"evolution": "19-3"
+			"evolution": "423-1"
 		},{
 			"name": "Eldegoss",
-			"number": "830",
+			"number": "0830",
 			"type": "Grass",
-			"evolution": "20-3"
+			"evolution": "423-3"
 		},{
 			"name": "Wooloo",
-			"number": "831",
+			"number": "0831",
 			"type": "Normal",
-			"evolution": "21-3"
+			"evolution": "424-1"
 		},{
 			"name": "Dubwool",
-			"number": "832",
+			"number": "0832",
 			"type": "Normal",
-			"evolution": "22-3"
+			"evolution": "424-3"
 		},{
 			"name": "Chewtle",
-			"number": "833",
+			"number": "0833",
 			"type": "Water",
-			"evolution": "23-3"
+			"evolution": "425-1"
 		},{
 			"name": "Drednaw",
-			"number": "834",
+			"number": "0834",
 			"type": "Water-Rock",
-			"evolution": "24-3"
+			"evolution": "425-3"
 		},{
 			"name": "Yamper",
-			"number": "835",
+			"number": "0835",
 			"type": "Electric",
-			"evolution": "25-3"
+			"evolution": "426-1"
 		},{
 			"name": "Boltund",
-			"number": "836",
+			"number": "0836",
 			"type": "Electric",
-			"evolution": "26-3"
+			"evolution": "426-3"
 		},{
 			"name": "Rolycoly",
-			"number": "837",
+			"number": "0837",
 			"type": "Rock",
-			"evolution": "27-3"
+			"evolution": "427-1"
 		},{
 			"name": "Carkol",
-			"number": "838",
+			"number": "0838",
 			"type": "Rock-Fire",
-			"evolution": "28-3"
+			"evolution": "427-2"
 		},{
 			"name": "Coalossal",
-			"number": "839",
+			"number": "0839",
 			"type": "Rock-Fire",
-			"evolution": "29-3"
+			"evolution": "427-3"
 		},{
 			"name": "Applin",
-			"number": "840",
+			"number": "0840",
 			"type": "Grass-Dragon",
-			"evolution": "30-3"
+			"evolution": "428-1"
 		},{
 			"name": "Flapple",
-			"number": "841",
+			"number": "0841",
 			"type": "Grass-Dragon",
-			"evolution": "31-3"
+			"evolution": "428-3"
 		},{
 			"name": "Appletun",
-			"number": "842",
+			"number": "0842",
 			"type": "Grass-Dragon",
-			"evolution": "32-3"
+			"evolution": "428-3"
 		},{
 			"name": "Silicobra",
-			"number": "843",
+			"number": "0843",
 			"type": "Ground",
-			"evolution": "33-3"
+			"evolution": "429-1"
 		},{
 			"name": "Sandaconda",
-			"number": "844",
+			"number": "0844",
 			"type": "Ground",
-			"evolution": "34-3"
+			"evolution": "429-3"
 		},{
 			"name": "Cramorant",
-			"number": "845",
+			"number": "0845",
 			"type": "Flying-Water",
-			"evolution": "35-3"
+			"evolution": "430-0"
 		},{
 			"name": "Arrokuda",
-			"number": "846",
+			"number": "0846",
 			"type": "Water",
-			"evolution": "36-3"
+			"evolution": "431-1"
 		},{
 			"name": "Barraskewda",
-			"number": "847",
+			"number": "0847",
 			"type": "Water",
-			"evolution": "37-3"
+			"evolution": "431-3"
 		},{
 			"name": "Toxel",
-			"number": "848",
+			"number": "0848",
 			"type": "Electric-Poison",
-			"evolution": "38-3"
+			"evolution": "432-1"
 		},{
 			"name": "Toxtricity",
-			"number": "849",
+			"number": "0849",
 			"type": "Electric-Poison",
-			"evolution": "39-3"
+			"evolution": "432-3"
 		},{
 			"name": "Sizzlipede",
-			"number": "850",
+			"number": "0850",
 			"type": "Fire-Bug",
-			"evolution": "40-3"
+			"evolution": "433-1"
 		},{
 			"name": "Centiskorch",
-			"number": "851",
+			"number": "0851",
 			"type": "Fire-Bug",
-			"evolution": "41-3"
+			"evolution": "433-3"
 		},{
 			"name": "Clobbopus",
-			"number": "852",
+			"number": "0852",
 			"type": "Fighting",
-			"evolution": "42-3"
+			"evolution": "434-1"
 		},{
 			"name": "Grapploct",
-			"number": "853",
+			"number": "0853",
 			"type": "Fighting",
-			"evolution": "43-3"
+			"evolution": "434-3"
 		},{
 			"name": "Sinistea",
-			"number": "854",
+			"number": "0854",
 			"type": "Ghost",
-			"evolution": "44-3"
+			"evolution": "435-1"
 		},{
 			"name": "Polteageist",
-			"number": "855",
+			"number": "0855",
 			"type": "Ghost",
-			"evolution": "45-3"
+			"evolution": "435-3"
 		},{
 			"name": "Hatenna",
-			"number": "856",
+			"number": "0856",
 			"type": "Psychic",
-			"evolution": "46-3"
+			"evolution": "436-1"
 		},{
 			"name": "Hattrem",
-			"number": "857",
+			"number": "0857",
 			"type": "Psychic",
-			"evolution": "47-3"
+			"evolution": "436-2"
 		},{
 			"name": "Hatterene",
-			"number": "858",
+			"number": "0858",
 			"type": "Psychic-Fairy",
-			"evolution": "48-3"
+			"evolution": "436-3"
 		},{
 			"name": "Impidimp",
-			"number": "859",
+			"number": "0859",
 			"type": "Dark-Fairy",
-			"evolution": "49-3"
+			"evolution": "437-1"
 		},{
 			"name": "Morgrem",
-			"number": "860",
+			"number": "0860",
 			"type": "Dark-Fairy",
-			"evolution": "50-3"
+			"evolution": "437-2"
 		},{
 			"name": "Grimmsnarl",
-			"number": "861",
+			"number": "0861",
 			"type": "Dark-Fairy",
-			"evolution": "51-3"
+			"evolution": "437-3"
 		},{
 			"name": "Obstagoon",
-			"number": "862",
+			"number": "0862",
 			"type": "Dark-Normal",
-			"evolution": "52-3"
+			"evolution": "132-3"
 		},{
 			"name": "Perrserker",
-			"number": "863",
+			"number": "0863",
 			"type": "Steel",
-			"evolution": "53-3"
+			"evolution": "021-3"
 		},{
 			"name": "Cursola",
-			"number": "864",
+			"number": "0864",
 			"type": "Ghost",
-			"evolution": "54-3"
+			"evolution": "111-3"
 		},{
 			"name": "Sirfetchd",
-			"number": "865",
+			"number": "0865",
 			"type": "Fighting",
-			"evolution": "55-3"
+			"evolution": "034-3"
 		},{
-			"name": "Mr-rime",
-			"number": "866",
+			"name": "Mr-Rime",
+			"number": "0866",
 			"type": "Psychic-Ice",
-			"evolution": "56-3"
+			"evolution": "056-3"
 		},{
 			"name": "Runerigus",
-			"number": "867",
+			"number": "0867",
 			"type": "Ground-Ghost",
-			"evolution": "57-3"
+			"evolution": "274-3"
 		},{
 			"name": "Milcery",
-			"number": "868",
+			"number": "0868",
 			"type": "Fairy",
-			"evolution": "58-3"
+			"evolution": "438-1"
 		},{
 			"name": "Alcremie",
-			"number": "869",
+			"number": "0869",
 			"type": "Fairy",
-			"evolution": "59-3"
+			"evolution": "438-3"
 		},{
 			"name": "Falinks",
-			"number": "870",
+			"number": "0870",
 			"type": "Fighting",
-			"evolution": "60-3"
+			"evolution": "439-0"
 		},{
 			"name": "Pincurchin",
-			"number": "871",
+			"number": "0871",
 			"type": "Electric",
-			"evolution": "61-3"
+			"evolution": "440-0"
 		},{
 			"name": "Snom",
-			"number": "872",
+			"number": "0872",
 			"type": "Ice-Bug",
-			"evolution": "62-3"
+			"evolution": "441-1"
 		},{
 			"name": "Frosmoth",
-			"number": "873",
+			"number": "0873",
 			"type": "Ice-Bug",
-			"evolution": "63-3"
+			"evolution": "441-3"
 		},{
 			"name": "Stonjourner",
-			"number": "874",
+			"number": "0874",
 			"type": "Rock",
-			"evolution": "64-3"
+			"evolution": "442-0"
 		},{
 			"name": "Eiscue",
-			"number": "875",
+			"number": "0875",
 			"type": "Ice",
-			"evolution": "65-3"
+			"evolution": "443-0"
 		},{
 			"name": "Indeedee",
-			"number": "876",
+			"number": "0876",
 			"type": "Psychic-Normal",
-			"evolution": "66-3"
+			"evolution": "444-0"
 		},{
 			"name": "Morpeko",
-			"number": "877",
+			"number": "0877",
 			"type": "Electric-Dark",
-			"evolution": "67-3"
+			"evolution": "445-0"
 		},{
 			"name": "Cufant",
-			"number": "878",
+			"number": "0878",
 			"type": "Steel",
-			"evolution": "68-3"
+			"evolution": "446-1"
 		},{
 			"name": "Copperajah",
-			"number": "879",
+			"number": "0879",
 			"type": "Steel",
-			"evolution": "69-3"
+			"evolution": "446-3"
 		},{
 			"name": "Dracozolt",
-			"number": "880",
+			"number": "0880",
 			"type": "Electric-Dragon",
-			"evolution": "70-3"
+			"evolution": "447-0"
 		},{
 			"name": "Arctozolt",
-			"number": "881",
+			"number": "0881",
 			"type": "Electric-Ice",
-			"evolution": "71-3"
+			"evolution": "448-0"
 		},{
 			"name": "Dracovish",
-			"number": "882",
+			"number": "0882",
 			"type": "Water-Dragon",
-			"evolution": "72-3"
+			"evolution": "449-0"
 		},{
 			"name": "Arctovish",
-			"number": "883",
+			"number": "0883",
 			"type": "Water-Ice",
-			"evolution": "73-3"
+			"evolution": "450-0"
 		},{
 			"name": "Duraludon",
-			"number": "884",
+			"number": "0884",
 			"type": "Steel-Dragon",
-			"evolution": "74-3"
+			"evolution": "451-0"
 		},{
 			"name": "Dreepy",
-			"number": "885",
+			"number": "0885",
 			"type": "Dragon-Ghost",
-			"evolution": "75-3"
+			"evolution": "452-1"
 		},{
 			"name": "Drakloak",
-			"number": "886",
+			"number": "0886",
 			"type": "Dragon-Ghost",
-			"evolution": "76-3"
+			"evolution": "452-2"
 		},{
 			"name": "Dragapult",
-			"number": "887",
+			"number": "0887",
 			"type": "Dragon-Ghost",
-			"evolution": "77-3"
+			"evolution": "452-3"
 		},{
 			"name": "Zacian",
-			"number": "888",
+			"number": "0888",
 			"type": "Fairy-Steel",
-			"evolution": "78-3"
+			"evolution": "453-0"
 		},{
 			"name": "Zamazenta",
-			"number": "889",
+			"number": "0889",
 			"type": "Fighting-Steel",
-			"evolution": "79-3"
+			"evolution": "454-0"
 		},{
 			"name": "Eternatus",
-			"number": "890",
+			"number": "0890",
 			"type": "Poison-Dragon",
-			"evolution": "80-3"
+			"evolution": "455-0"
+		},{
+			"name": "Kubfu",
+			"number": "0891",
+			"type": "Fighting",
+			"evolution": "456-1"
+		},{
+			"name": "Urshifu",
+			"number": "0892",
+			"type": "Fighting-Dark",
+			"evolution": "456-3"
+		},{
+			"name": "Zarude",
+			"number": "0893",
+			"type": "Dark-Grass",
+			"evolution": "457-0"
+		},{
+			"name": "Regieleki",
+			"number": "0894",
+			"type": "Electric",
+			"evolution": "458-0"
+		},{
+			"name": "Regidrago",
+			"number": "0895",
+			"type": "Dragon",
+			"evolution": "459-0"
+		},{
+			"name": "Glastrier",
+			"number": "0896",
+			"type": "Ice",
+			"evolution": "460-0"
+		},{
+			"name": "Spectrier",
+			"number": "0897",
+			"type": "Ghost",
+			"evolution": "461-0"
+		},{
+			"name": "Calyrex",
+			"number": "0898",
+			"type": "Psychic-Grass",
+			"evolution": "462-0"
 		}
 	]
 }

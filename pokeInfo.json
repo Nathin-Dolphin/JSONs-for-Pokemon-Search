@@ -1,42 +1,42 @@
 {
-    "version": "1.7",
+    "version": "1.8",
     "types": {
         "bug": "dark",
         "dragon": "electric",
         "fairy": "fighting",
-        "fire": "flying",
-        "ghost": "grass",
-        "ground": "ice",
-        "normal": "poison",
-        "psychic": "rock",
-        "steel": "water"
-    },
-    "regions": {
-        "kanto": "151-77",
-        "johto": "251-127",
-        "hoenn": "386-196",
-        "sinnoh": "493-241",
-        "unova": "649-323",
-        "kalos": "721-360",
-        "alola": "809-0",
-        "galar": "890-0",
-        "alternateForm": "0-0"
-    },
-    "regionURLs": {
-        "kanto": "https://jsontextfiles.azurewebsites.net/kanto.json",
-        "johto": "https://jsontextfiles.azurewebsites.net/johto.json",
-        "hoenn": "https://jsontextfiles.azurewebsites.net/hoenn.json",
-        "sinnoh": "https://jsontextfiles.azurewebsites.net/sinnoh.json",
-        "unova": "https://jsontextfiles.azurewebsites.net/unova.json",
-        "kalos": "https://jsontextfiles.azurewebsites.net/kalos.json",
-        "alola": "https://jsontextfiles.azurewebsites.net/alola.json",
-        "galar": "https://jsontextfiles.azurewebsites.net/galar.json",
-        "alternateForm": "null/alternateForm.json"
-    },
-    "format": {
-	"name": "",
-	"number": "",
-	"type": "",
-	"evolution": ""
-    }
+		"fire": "flying",
+		"ghost": "grass",
+		"ground": "ice",
+		"normal": "poison",
+		"psychic": "rock",
+		"steel": "water"
+	},
+	"regions": {
+		"kanto": "151-77",
+		"johto": "251-127",
+		"hoenn": "386-196",
+		"sinnoh": "493-241",
+		"unova": "649-323",
+		"kalos": "721-360",
+		"alola": "809-415",
+		"galar": "898-462",
+		"alternateForm": "0-0"
+	},
+	"regionURLs": {
+		"kanto": "https://jsontextfiles.azurewebsites.net/kanto.json",
+		"johto": "https://jsontextfiles.azurewebsites.net/johto.json",
+		"hoenn": "https://jsontextfiles.azurewebsites.net/hoenn.json",
+		"sinnoh": "https://jsontextfiles.azurewebsites.net/sinnoh.json",
+		"unova": "https://jsontextfiles.azurewebsites.net/unova.json",
+		"kalos": "https://jsontextfiles.azurewebsites.net/kalos.json",
+		"alola": "https://jsontextfiles.azurewebsites.net/alola.json",
+		"galar": "https://jsontextfiles.azurewebsites.net/galar.json",
+		"alternateForm": "null/alternateForm.json"
+	},
+	"format": {
+		"name": "",
+		"number": "",
+		"type": "",
+		"evolution": ""
+	}
 }
